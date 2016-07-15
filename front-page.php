@@ -15,7 +15,7 @@
                 <div class="col-md-3 col-md-offset-1">
                     <div class="result-exames">
                         <h4>Resultado de exames</h4>
-                        <a href="http://biomedico.ddns.net:9090/" target="_blank" title="Resultados de exames">
+                        <a href="http://labbiomedico.ddns.net:9090/" target="_blank" title="Resultados de exames">
                             <img src="<?php echo get_stylesheet_directory_uri(); ?>/img/exames.png" alt="Resultado de exames" class="img-fluid">
                         </a>
                     </div>
